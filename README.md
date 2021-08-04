@@ -22,7 +22,7 @@ An ultra budget mini Sound Voltex controller with through hole components. Inten
 
 ## Order & Build Instructions
 - ~~ ORDERING ~~
-- AllPCB has free prototype boards: https://www.allpcb.com/activity/free-pcb-prototype-2021.html.  Create an account, claim the free prototype coupon, and go to Instant PCB Quote.
+- AllPCB has free prototype boards: https://www.allpcb.com/activity/free-pcb-prototype-2021.html.  Create an account, claim the free prototype coupon, and go to Instant PCB Quote.  Their site is a little jank and sometimes the PCB quote won't show $0 when you login.  Can e-mail support and they might be able to help you out.
 - Leave everything as default except for Dimensions(100.8 x 131 mm), Quantity(5), Solder Mask(Cold White), Silkscreen(Black)[this should change automatically once you select solder mask]
 - Quote now, choose the cheapest option.  I think it should say free if you did it correctly.  Add to cart, checkout, and then upload Pocket-SDVX-Pico-THT-1-2-Gerbers.zip to the order.  You're done ordering your PCBs now!
 - Print case_v2_1.STL on a FDM printer in whatever plastic you want as long as it prints nice and flat.  Bring your own keycaps and knobs or print the ones here - tested on a resin 3d printer and NOT FDM, YMMV.
@@ -34,7 +34,7 @@ An ultra budget mini Sound Voltex controller with through hole components. Inten
 - Solder in your LED resistors if you have them.  This is the side with the rectangles and Rasis.  Clip the legs.
 - Solder your Pi Pico directly onto the board.  This is the side with the rectangular pads and Rasis.  Lookup soldering castellated pins on youtube if you need help.
 - ![Pocket SDVX Pico THT 3](pics/20210722_220145.jpg)
-- Solder in the LEDs.  The light part is on the same side as the resistors/pi pico/Rasis.  Be sure to match up the shorter lead(negative) with the square pad.  Clip the legs.
+- NOTE: ONLY DO THIS IF YOUR SWITCH HAS A HOLE FOR THE WHOLE LED.  IF IT DOESNT, SOLDER THESE AFTER YOU SOLDER SWITCHES.  Solder in the LEDs.  The light part is on the same side as the resistors/pi pico/Rasis.  Be sure to match up the shorter lead(negative) with the square pad.  Clip the legs.
 - ![Pocket SDVX Pico THT 4](pics/20210722_200532.jpg)
 - ![Pocket SDVX Pico THT 5](pics/20210722_200616.jpg)
 - Your board should now look like this(ignore the little green wires sticking out at the corner of the board)
