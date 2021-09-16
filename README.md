@@ -28,7 +28,7 @@ An ultra budget mini Sound Voltex controller with through hole components. Inten
 - Print case_v2_1.STL on a FDM printer in whatever plastic you want as long as it prints nice and flat.  Bring your own keycaps and knobs or print the ones here - tested on a resin 3d printer and NOT FDM, YMMV.
 - Get the other stuff listed in the BOM above.
 - ~~ ASSEMBLY --
-- Flash your Pi Pico with https://github.com/speedypotato/Pico-Game-Controller.  You may have to change the encoder PPR from the default 600 to 24.  If you don't need to change anything, I've provided a precompiled Pico_Game_Controller.uf2 you can use.  Just hold down the small button on the Pi Pico when plugging it in, and drag the .uf2 file directly into the drive that pops up.
+- Flash your Pi Pico with https://github.com/speedypotato/Pico-Game-Controller.  You may have to change the encoder PPR from the default 600 to 24.  If you don't need to change anything, I've provided a precompiled Pico_Game_Controller.uf2 you can use.  Just hold down the small button on the Pi Pico when plugging it in, and drag the .uf2 file directly into the drive that pops up.  EDIT: I now recommend going here https://github.com/speedypotato/Pico-Game-Controller/tree/release/pocket-sdvx-pico/build_uf2 and picking up the latest build for Pocket SDVX Pico as the pinouts that matter on THT should always match up.
 - ![Pocket SDVX Pico THT 2](pics/20210722_215100.jpg)
 - Add your 2u stabilizers to the case.  I always forget, so just do it now.
 - Solder in your LED resistors if you have them.  This is the side with the rectangles and Rasis.  Clip the legs.
