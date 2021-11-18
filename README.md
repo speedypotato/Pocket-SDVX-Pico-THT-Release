@@ -1,6 +1,8 @@
 # Pocket-SDVX-Pico-THT-Release
 An ultra budget mini Sound Voltex controller with through hole components. Intended to fit within AllPCB's free prototype size.
 
+My blurb regarding this controller's design: https://youtu.be/ZNcycQQxNAY
+
 ![Pocket SDVX Pico THT 1](pics/20210724_023411.jpg)
 
 - This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
