@@ -5,6 +5,8 @@ Join the discord for discussion and support! https://discord.gg/MmuKd73XbY
 
 My blurb regarding this controller's design: https://youtu.be/ZNcycQQxNAY
 
+Side Note: This design really needs to have 2 10nF capacitors on each encoder(CH-A -> GND, CH-B -> GND), totalling 4 capacitors.  You can maybe bodge in some small ones where the encoder pins meet the pcb or on the pi pico's gpio 0, 1, 2, 3 pins.  Without it, the encoders might skip a lot even with software debouncing turned on.
+
 ![Pocket SDVX Pico THT 1](pics/20210724_023411.jpg)
 
 - This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
