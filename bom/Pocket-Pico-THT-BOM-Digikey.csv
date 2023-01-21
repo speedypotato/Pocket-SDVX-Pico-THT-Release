@@ -1,0 +1,10 @@
+﻿Index,Manufacturer Part Number,Manufacturer Name,Description,Availability,Stock Status,Attrition %,Requested Quantity 1,Pack Quantity 1,Pack Type 1,Digi-Key Part Number 1,Unit Price 1,Extended Price 1,Minimum Order Quantity 1,Datasheet,Original Part numbers
+1,,,,,,,,,,,,,,,Mfr. #
+2,PEC16-2015F-N0024,Bourns Inc.,ROTARY ENCODER MECHANICAL 24PPR,0,Normally Stocking,,2,2,Tray,118-PEC16-2015F-N0024-ND,1.52000,$3.04,1,https://www.bourns.com/docs/Product-Datasheets/pec16.pdf,PEC16-2015F-N0024
+3,SC0915,Raspberry Pi,RASPBERRY PI PICO RP2040 BOARD,"24,260",In Stock,,1,1,Cut Tape (CT),2648-SC0915CT-ND,4.00000,$4.00,1,https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf,SC0915
+4,KB700B14AL,APEM Inc.,"KNOB KNURLED 0.250"" METAL",,Non-Stock,,2,1000,Bag,KB700B14AL-ND,3.65418,"$3,654.18",1000,,KB700B14AL
+5,0G990224,Cherry Americas LLC,KEYBOARD LEVMECH 8MM 1X2,868,In Stock,,2,2,Bulk,0G990224-ND,0.23000,$0.46,1,,0G990224
+6,WP914IDT,Kingbright,LED RED DIFFUSED THROUGH HOLE,"258,381",In Stock,,2,2,Bulk,754-1901-ND,0.39000,$0.78,1,https://www.KingbrightUSA.com/images/catalog/SPEC/WP914IDT.pdf,WP914IDT
+7,WP914GDT,Kingbright,LED GREEN DIFFUSED THROUGH HOLE,"11,650",In Stock,,5,5,Bulk,754-1900-ND,0.39000,$1.95,1,https://www.KingbrightUSA.com/images/catalog/SPEC/WP914GDT.pdf,WP914GDT
+8,K103K10X7RF5UH5,Vishay Beyschlag/Draloric/BC Components,CAP CER 10000PF 50V X7R RADIAL,"162,170",In Stock,,4,4,Cut Tape (CT),BC2662CT-ND,0.22000,$0.88,1,https://www.vishay.com/docs/45171/kseries.pdf,K103K10X7RF5UL2
+9,RSF100JB-73-100R,YAGEO,RES 100 OHM 5% 1W AXIAL,"16,597",In Stock,,7,7,Bulk,100W-1-ND,0.32000,$2.24,1,https://www.yageo.com/upload/media/product/productsearch/datasheet/lr/YAGEO%20RSF_datasheet_2021v0.pdf,RSF100JB-73-100R
